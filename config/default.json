@@ -1,0 +1,9 @@
+{
+    "qqMusic": {
+        "qqId":"<Input your qq id.>",
+        "cookie":"<Input your qq music cookie.>"
+    },
+    "spotify": {
+        "token":"<Input your spotify token.>"
+    }
+}
